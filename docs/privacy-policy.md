@@ -1,9 +1,9 @@
-# Privacy Policy – Gemini to PDF
+# Privacy Policy – SaveChat – for Gemini & AI Studio
 
 **TL;DR:** We don’t collect or share your data. Full policy below.
 
 ## What the extension does  
-Gemini to PDF reads the chat currently open on `gemini.google.com` or `aistudio.google.com`, converts it to the file format you choose, and downloads it to your computer.
+SaveChat reads the chat currently open on `gemini.google.com` or `aistudio.google.com`, converts it to the file format you choose, and downloads it to your computer.
 
 ## Data collection  
 The extension does **not** collect, transmit, or store:  
